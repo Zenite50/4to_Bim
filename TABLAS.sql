@@ -1,1 +1,0 @@
-SELECT * FROM libreria_bressani.proveedores;
